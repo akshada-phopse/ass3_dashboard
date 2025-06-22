@@ -1,5 +1,9 @@
 # React Admin Dashboard
 
+## 🔗 Live Demo
+
+👉 [Visit the App](https://ass3-dashboard.vercel.app/)
+
 A modern, responsive admin dashboard built with React. Includes customizable themes, charts, calendar, Kanban board, and more for efficient admin management.
 
 ##  Features
@@ -19,6 +23,4 @@ A modern, responsive admin dashboard built with React. Includes customizable the
 - FullCalendar
 - React Beautiful DnD
 
-## 🔗 Live Demo
 
-👉 [Visit the App](https://ass3-dashboard.vercel.app/)
